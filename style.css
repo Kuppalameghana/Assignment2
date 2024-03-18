@@ -1,0 +1,14 @@
+body{
+  padding: 25px;
+  background-color: #EAF7FC;
+}
+.container{
+  background-color: #EBCE87;
+  padding:10px;
+}
+
+.incont{
+  background-color: #EB87CE;
+  padding: 5px;
+  text-align:center;
+}
